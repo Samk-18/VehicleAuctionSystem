@@ -1,0 +1,9 @@
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.csproj.AssemblyReference.cache
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.AssemblyInfoInputs.cache
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.AssemblyInfo.cs
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.csproj.CoreCompileInputs.cache
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.MvcApplicationPartsAssemblyInfo.cs
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.MvcApplicationPartsAssemblyInfo.cache
+C:\D\Vechile-auction-and-selling-system\PaymentServiceNet\obj\Debug\net10.0\PaymentService.sourcelink.json
